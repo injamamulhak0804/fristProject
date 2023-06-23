@@ -1,3 +1,2 @@
-const a = 10;
-const b = 20;
-console.log(a + b); // 30
+const idEl = documnet.getElementById("id");
+idEl.innerHTMl = "Hi Bro"
